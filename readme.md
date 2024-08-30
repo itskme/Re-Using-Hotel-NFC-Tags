@@ -1,8 +1,9 @@
 # Re-Cycling Old Hotel Cards as NFC Tags
+![image](https://github.com/user-attachments/assets/f397891e-456f-40a6-83e1-f6b7c84df2b2)
 
 
 
-![](https://private-user-images.githubusercontent.com/160423464/347178156-4c6039ca-b045-4cd0-a5a3-781c6492c7e8.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA1Njg1NjQsIm5iZiI6MTcyMDU2ODI2NCwicGF0aCI6Ii8xNjA0MjM0NjQvMzQ3MTc4MTU2LTRjNjAzOWNhLWIwNDUtNGNkMC1hNWEzLTc4MWM2NDkyYzdlOC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwOVQyMzM3NDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lMzM5YWQ4ZDhiOTgwM2NiYWYyYmRiZTQ0YTBkMjQ1N2RiN2YzODUyMjU2NThmMWFmZmJiZTAxOWYwNTVlMzcwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.CkSQ0JkTCO6pf-3fN44hLCZlSv5NTP63LbHSCDiS6sw)
+
 
 There is a little-known trick with hotel cards. By using certain android apps and an NFC capable phone, we can either completely format the card, or, if write protected, use it to run automations! Below will cover both methods.
 
